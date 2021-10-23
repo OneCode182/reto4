@@ -1,0 +1,7 @@
+
+{
+    "startDate" : "2020-12-20",
+    "devolutionDate" : "2020-12-20",
+    "client" : {"idClient" : 1},
+    "machine" : {"id" : 1}
+}
